@@ -1,0 +1,37 @@
+
+
+.site-layout-content {
+    min-height: 280px;
+    padding: 10px;
+    background: #fff;
+}
+
+.container_row{
+  margin-bottom: 50px;
+}
+
+hr.solid {
+  border-top: 3px solid #bbb;
+}
+
+hr.solid_v {
+  height: 100%;
+  width: 1px;
+  border-top: 3px solid #bbb;
+}
+
+
+.container_main{
+  padding: 25px;
+}
+
+.container_larteral{
+  padding: 25px;
+}
+
+
+@media(max-width:1350px){
+.content{ 
+  padding: 10px !important
+}
+}
